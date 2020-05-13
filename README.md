@@ -1,7 +1,7 @@
 # Nova Constituicao Federal do Brasil
-Esse projeto tem por objetivo criar uma Nova Constituição Federal para o Brasil com base nos principios de liberdade.
+Esse projeto tem por objetivo criar uma Nova Constituição Federal para o Brasil com base nos principios de liberdade aos cidadãos.
 
-Os arquivos serão distribuidos em tematicas e prioridades para facilitar a sua confecção.
+O arquivo será distribuido em tematicas e prioridades para facilitar a sua confecção.
 
 - Preambulo
 - Principios fundamentais
