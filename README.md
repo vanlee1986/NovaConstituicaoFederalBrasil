@@ -15,7 +15,7 @@ O arquivo será distribuido em tematicas e prioridades para facilitar a sua conf
 ## Preâmbulo
 Nós, o povo brasileiro representados pelo desejo de liberdade, dignidade, diretos... 
 
-## Principios fundamnentais
+## Principios fundamentais
     Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Livre e Democrático de Direito e tem base em seus fundamentos:
         I - a soberania
         II - a liberdade do individuo
