@@ -64,6 +64,29 @@ Nós, o povo brasileiro representados pelo desejo de liberdade, dignidade, diret
             f) banimento e extradição, sendo esse para extrangeiros que estejam no pais
             g) prestação de serviço social
         XV - a pena será cumprida mediante equidade do crime cometido separado apenas em sexo do apenado.
-        XVI - é assegurado ao presoa integridade fisica e moral.
-        XVI - é assegurado a presidiária o direito de permanecer com seus filhos durante o periodo de amamentação.
-        XVII - (proporcional ao Art. 5º L)
+  
+## Da nacionalidade
+    Art. 6º. São brasileiros
+        I - os nascidos em território nacional sao considerados natos.
+        II - os nascido de pai ou mãe brasileiros em paises estrangeiros sao considerados naturalizados
+        § 1º Serão aceitos para cargos publicos apenas os naturalizados
+    Art. 7º. A lingua portuguesa é o idioma oficial de Republica Federativa do Brasil
+        § 1º São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e o selo nacionais.
+        § 2º Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios.
+
+## Dos direitos politicos
+    Art. 8º. Analise posterior (referente ao Art. 14º ao 16º)
+
+## Dos partidos politicos
+    Art. 9º Será considerado partido politico toda a organização nos moldes de uma empresa privada em orgão competente.
+
+## Da organização do Estado
+### Da organização politica-administrativa
+    Art. 10º (referente ao Art. 18º)
+
+
+## Atos de transição
+ - Devolver todo o fundo de garantia
+ - Dissolução do TSE,TST (Transfere para a Justiça Comum)
+ - Dissolução dos Ministérios distintos de (Saude, Segurança)
+ - Torna independente as forças (Justiça, PF/PRF, MP)
