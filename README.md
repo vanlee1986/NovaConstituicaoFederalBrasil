@@ -19,8 +19,8 @@ Nós, o povo brasileiro representados pelo desejo de liberdade, dignidade, diret
     Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Livre e Democrático de Direito e tem base em seus fundamentos:
         I - a soberania
         II - a liberdade do individuo
-        III - a propriedade do individuo
-        IV - a posse e porte de arma
+        III - a posse e porte de arma
+        IV - a propriedade do individuo
         V - a livre defesa de seus bens e de outrem
         Paragrafo único - Todo o poder emana do povo por meio de seus representantes eleitos sem que seja sobrepostos os direitos fundamentais.
     Art. 2º Os poderes da união são independentes e harmonicos entre si sendo o Executivo, Legislativo e Judiciário 
@@ -41,7 +41,7 @@ Nós, o povo brasileiro representados pelo desejo de liberdade, dignidade, diret
 ## Direitos
     Art. 5º Todos são iguais perante a lei, nos termos propostos:
         I - são inviolaveis os fundamentos dessa constituição passiveis de repreensão em caso de usurpação sem previo consenso nos moldes da lei
-        II - ninguem será obrigado a fazer ou deixar de fazer se não em virtude da lei
+        II - ninguem será obrigado a deixar de fazer se não em virtude da lei
         III - é livre a manifestação do pensamento inclusive do anonimado, sendo esse vetado de direitos ou propriedade
         IV - todo e qualquer prejuizo deve ser reparado em proporção de equidade dos termos
         V - ninguem será privado de seus direitos se não pela usurpação dos direitos de outrem.
